@@ -1,1 +1,1 @@
-# rayban-meta-rtmp
+# smart-glasses-rtmp
